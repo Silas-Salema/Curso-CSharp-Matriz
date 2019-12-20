@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Exercicio_Fixação_Matriz/1.0.0": {
+        "runtime": {
+          "Exercicio_Fixação_Matriz.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio_Fixação_Matriz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

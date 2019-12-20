@@ -1,0 +1,11 @@
+C:\Users\Silas1\Desktop\Exercicio_Fixação_Matriz\Exercicio_Fixação_Matriz\bin\Debug\netcoreapp3.0\Exercicio_Fixação_Matriz.exe
+C:\Users\Silas1\Desktop\Exercicio_Fixação_Matriz\Exercicio_Fixação_Matriz\bin\Debug\netcoreapp3.0\Exercicio_Fixação_Matriz.deps.json
+C:\Users\Silas1\Desktop\Exercicio_Fixação_Matriz\Exercicio_Fixação_Matriz\bin\Debug\netcoreapp3.0\Exercicio_Fixação_Matriz.runtimeconfig.json
+C:\Users\Silas1\Desktop\Exercicio_Fixação_Matriz\Exercicio_Fixação_Matriz\bin\Debug\netcoreapp3.0\Exercicio_Fixação_Matriz.runtimeconfig.dev.json
+C:\Users\Silas1\Desktop\Exercicio_Fixação_Matriz\Exercicio_Fixação_Matriz\bin\Debug\netcoreapp3.0\Exercicio_Fixação_Matriz.dll
+C:\Users\Silas1\Desktop\Exercicio_Fixação_Matriz\Exercicio_Fixação_Matriz\bin\Debug\netcoreapp3.0\Exercicio_Fixação_Matriz.pdb
+C:\Users\Silas1\Desktop\Exercicio_Fixação_Matriz\Exercicio_Fixação_Matriz\obj\Debug\netcoreapp3.0\Exercicio_Fixação_Matriz.csprojAssemblyReference.cache
+C:\Users\Silas1\Desktop\Exercicio_Fixação_Matriz\Exercicio_Fixação_Matriz\obj\Debug\netcoreapp3.0\Exercicio_Fixação_Matriz.AssemblyInfoInputs.cache
+C:\Users\Silas1\Desktop\Exercicio_Fixação_Matriz\Exercicio_Fixação_Matriz\obj\Debug\netcoreapp3.0\Exercicio_Fixação_Matriz.AssemblyInfo.cs
+C:\Users\Silas1\Desktop\Exercicio_Fixação_Matriz\Exercicio_Fixação_Matriz\obj\Debug\netcoreapp3.0\Exercicio_Fixação_Matriz.dll
+C:\Users\Silas1\Desktop\Exercicio_Fixação_Matriz\Exercicio_Fixação_Matriz\obj\Debug\netcoreapp3.0\Exercicio_Fixação_Matriz.pdb
